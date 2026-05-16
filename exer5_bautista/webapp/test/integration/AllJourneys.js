@@ -7,7 +7,7 @@ sap.ui.define([
 
 	Opa5.extendConfig({
 		arrangements: new Startup(),
-		viewNamespace: "com.training.exer5bautista.view.",
+		viewNamespace: "com.training.exer5_bautista.view.",
 		autoWait: true
 	});
 });

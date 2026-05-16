@@ -2,7 +2,7 @@
 
 specVersion: "4.0"
 metadata:
-  name: com.training.exer5bautista
+  name: com.training.exer5_bautista
 type: application
 resources:
   configuration:
@@ -16,7 +16,7 @@ builder:
     - name: ui5-task-zipper
       afterTask: generateCachebusterInfo
       configuration:
-        archiveName: comtrainingexer5bautista
+        archiveName: com.training.exer5_bautista
         relativePaths: true
         additionalFiles:
           - xs-app.json
