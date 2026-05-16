@@ -14,7 +14,7 @@ sap.ui.define([
 			// start the app UI component
 			this.iStartMyUIComponent({
 				componentConfig: {
-					name: "com.training.exer5bautista",
+					name: "com.training.exer5_bautista",
 					async: true
 				},
 				hash: oOptions.hash,

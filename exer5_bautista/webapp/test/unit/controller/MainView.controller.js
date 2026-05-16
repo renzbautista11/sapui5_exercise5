@@ -1,7 +1,7 @@
 /*global QUnit*/
 
 sap.ui.define([
-	"com/training/exer5bautista/controller/MainView.controller"
+	"com/training/exer5_bautista/controller/MainView.controller"
 ], function (Controller) {
 	"use strict";
 
